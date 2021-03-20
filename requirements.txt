@@ -5,7 +5,7 @@ Flask==1.1.2
 flask-requests==0.0.14
 Flask-RESTful==0.3.8
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 pampy==0.3.0
 pip==20.0.2
